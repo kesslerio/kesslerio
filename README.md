@@ -92,4 +92,4 @@ I build MCP servers and skills that connect Codex, Claude Code, and Pi to CRM sy
 
 ## Contact
 
-[kessler.io](https://kessler.io)
+[martin@kessler.io](mailto:martin@kessler.io)
