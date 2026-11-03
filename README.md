@@ -1,6 +1,24 @@
-# Martin Kessler
+# 👋 Hi, I'm Martin
 
-I build MCP servers and skills that connect Codex, Claude Code, and Pi to CRM systems, research sources, media workflows, personal data, and automation. ShapeScale engineering stays private, so this profile covers the agent layer.
+📍 San Francisco\
+🧑‍💻 Co-founder and COO of ShapeScale\
+🤖 I ship production software with coding agents\
+🚴 Cycling, running, local LLMs, gadgets
+
+## About
+
+Alex and I started ShapeScale. It scans fat, muscle, visceral fat, and body shape in photorealistic 3D, so you can visually see what's changed rather than just a number on a scale. I've shipped websites, web apps, Android/iOS apps, custom e-commerce solutions, agentic automations, MCPs, skills, agent runtimes, plus my personal automation workflows. Most of those repos are private, and the skills and MCP servers below are the public part. Upstream, I contribute to [the Codex app server](https://github.com/pwrdrvr/openclaw-codex-app-server) and [Lobster](https://github.com/openclaw/lobster) in the OpenClaw ecosystem, plus the [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) and [podcastfy](https://github.com/souzatharsis/podcastfy). Most of the code is Python and TypeScript, with Node and Postgres underneath, JavaScript in the web apps, and Go, Rust, Kotlin, or Swift when a project calls for them.
+
+## Work highlights
+
+- ShapeScale has >1K business customers across North America. We went through Y Combinator and Stanford StartX.
+- I founded Phonejoy, the mobile handheld that turned your phone into a console, way before things like Steam Deck made it cool. :-)
+
+## GitHub activity
+
+![Martin's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kesslerio&theme=github)
+![Top languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kesslerio&theme=github)
+![Commit times](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kesslerio&theme=github&utcOffset=-8)
 
 ## Start here
 
@@ -90,6 +108,10 @@ I build MCP servers and skills that connect Codex, Claude Code, and Pi to CRM sy
 - ⚡ **[sparkDash](https://github.com/kesslerio/sparkDash)** - Dashboard for monitoring several DGX Spark machines.
 - 🍭 **[taste-skill](https://github.com/kesslerio/taste-skill)** - Steers frontend output toward a chosen design taste.
 
-## Contact
+## Connect
 
-[martin@kessler.io](mailto:martin@kessler.io)
+[![X](https://img.shields.io/badge/-kesslerIO-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/kesslerIO)
+[![LinkedIn](https://img.shields.io/badge/-Martin_Kessler-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinkessler)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:martin@kessler.io)
+[![ShapeScale](https://img.shields.io/badge/-ShapeScale-111111?style=flat-square)](https://shapescale.com)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kesslerio)
